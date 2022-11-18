@@ -3,7 +3,7 @@
 ### Project Description: 
 This web app is a certification project for freeCodeCamp's Backend Development and APIs course. This app allows you to create a new user and add exercise data for that user in a MongoDB database hosted on MongoDB Atlas. The app also allows you to display all exercise data logs for a given user.
 
-### Replit Link: https://replit.com/@OsahonOjo/fCC-apis-project-exercisetracker
+### [Replit](https://replit.com/@OsahonOjo/fCC-apis-project-exercisetracker)
 
 ### Project Requirements:
 1. You can POST to "/api/users" with form data "username" to create a new user.
